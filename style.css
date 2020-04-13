@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: currentColor;
+}
+
+.hover_button:hover{
+    color: deepskyblue;
+}
+
+.menu-navigation {
+    list-style: none;
+    font-size: 20px;
+    text-align: center;
+}
+
+.menu-navigation li {
+    display:inline-block;
+    padding: 0px 30px;
+}
+
+
+div.stylelife {
+    margin: 150px;
+    display: inline-block;
+}
+
+p.stylelife{
+    font-size: 30px;
+}
+
+div.stylelife1{
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px 20px 20px;
+    position: relative;
+    width: 466px;
+}
+
+p.stylelife{
+    font-size: 30px;
+}
+
+.container {
+    display: block;
+    text-align: center;
+
+}
+img {
+    width: auto;
+    height: 300px;
+    border: 1px solid #aeaeae;
+    display: block
+
+}
+.text {
+    text-align: left;
+}
+
+.center{
+    text-align: center;
+    padding-bottom: 50px;
+}
